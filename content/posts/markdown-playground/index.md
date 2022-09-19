@@ -1,11 +1,11 @@
 ---
 title: Markdown Test File
 description: abc234
-9-12-07
-draft:true
-slug: /pensieve/markdown-playground
+date: '2019-12-07'
+draft: false
+slug: '/penis/markdown-playground'
 tags:
-  - Testing
+  - testing
 ---
 
 ![Image Alt](./image.jpg)
