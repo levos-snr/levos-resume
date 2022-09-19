@@ -1,0 +1,31 @@
+{
+  "namedChunkGroups": {
+    "polyfill": {
+      "name": "polyfill",
+      "assets": [
+        { "name": "polyfill.js" },
+        { "name": "polyfill.c797a39493f183d6f9b6.hot-update.js" }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": null,
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0
+    },
+    "commons": {
+      "name": "commons",
+      "assets": [
+        { "name": "commons.js" },
+        { "name": "commons.c797a39493f183d6f9b6.hot-update.js" }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": null,
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0
+    }
+  },
+  "assetsByChunkName": {
+    "polyfill": ["polyfill.js", "polyfill.c797a39493f183d6f9b6.hot-update.js"],
+    "commons": ["commons.js", "commons.c797a39493f183d6f9b6.hot-update.js"]
+  },
+  "childAssetsByChunkName": {}
+}
