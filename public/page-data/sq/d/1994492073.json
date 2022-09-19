@@ -1,1 +1,13 @@
-{"data":{"site":{"siteMetadata":{"defaultTitle":"Lewis Odero","defaultDescription":"Lewis Odero is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.","siteUrl":"https://lewisodero.me","defaultImage":"/og.png","twitterUsername":"@levos_snr"}}}}
+{
+  "data": {
+    "site": {
+      "siteMetadata": {
+        "defaultTitle": "Lewis Odero",
+        "defaultDescription": "Lewis Odero is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.",
+        "siteUrl": "https://lewisodero.me/",
+        "defaultImage": "/og.png",
+        "twitterUsername": "@levos_snr"
+      }
+    }
+  }
+}
